@@ -13,9 +13,9 @@ For whatever reason, I don't have a ton of Python code exposed to the public. ht
 You should!
 
 For my next role,
-🌎 I want to have a real positive impact in the world, like taking action on the climate crisis or enabling fairer access to education around the world
-🤔 I want to work somewhere that welcomes my curiosity, empowering me to dig deep and understand the less obvious aspects of the problem at hand
-👷 I want to work in a primarily technical capacity, but not necessarily fully "hands-on" - I have plenty to offer as a mentor, designer, researcher and general collaborator
+- 🌎 I want to have a real positive impact in the world, like taking action on the climate crisis or enabling fairer access to education around the world
+- 🤔 I want to work somewhere that welcomes my curiosity, empowering me to dig deep and understand the less obvious aspects of the problem at hand
+- 👷 I want to work in a primarily technical capacity, but not necessarily fully "hands-on" - I have plenty to offer as a mentor, designer, researcher and general collaborator
 
 🐂 Bonus points if you're based here in Oxford!
 
